@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "99869310703",
+    "firebase_url": "https://fir-socialmediaapp-10d08.firebaseio.com",
+    "project_id": "fir-socialmediaapp-10d08",
+    "storage_bucket": "fir-socialmediaapp-10d08.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:99869310703:android:0ca7eecb52b6e323cd651a",
+        "android_client_info": {
+          "package_name": "neversmile.packag.com.firebasesocialmediaapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "99869310703-ibke8e3318iq4geeu867ju93fdflvc80.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "neversmile.packag.com.firebasesocialmediaapp",
+            "certificate_hash": "91d1a0e577fa661e7da2f4a3829e62e8ef0dc68b"
+          }
+        },
+        {
+          "client_id": "99869310703-6fl6dld0t1osil53utt9vfkpj51qe5v8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0_W_SVoP-KcfUXYFxMHiKlXxYrrjLNwU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "99869310703-6fl6dld0t1osil53utt9vfkpj51qe5v8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
